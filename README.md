@@ -1,4 +1,5 @@
 # Algorithms
+# Tonelli Shanks
 	Find a quadratic residue (mod p) of 'a'. p must be an odd prime.
 	Solve the congruence of the form: x^2 = a (mod p) and returns x. 
 	Note that p - x is also a root.
